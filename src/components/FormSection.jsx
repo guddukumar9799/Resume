@@ -82,21 +82,21 @@ const FormSection = () => {
                 <FaWhatsapp className="social-icon" style={{ ...iconStyle, color: iconColors.whatsapp }} />
               </a>
               <a
-                href="https://www.https://www.instagram.com/guddukumar9799?igsh=MWpyaGp1NG0zd3p0.com/yourusername"
+                href="https://www.https://www.instagram.com/guddukumar9799?igsh=MWpyaGp1NG0zd3p0"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaInstagram className="social-icon" style={{ ...iconStyle, color: iconColors.instagram }} />
               </a>
               <a
-                href="https://www.facebook.com/https://www.facebook.com/share/1AD95bAUAN/"
+                href="https://www.facebook.com/share/1AD95bAUAN/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaFacebook className="social-icon" style={{ ...iconStyle, color: iconColors.facebook }} />
               </a>
               <a
-                href="https://www.linkedin.https://www.linkedin.com/in/guddu-kumar-3345b0340//in/yourusername"
+                href="https://www.linkedin.com/in/guddu-kumar-3345b0340"
                 target="_blank"
                 rel="noopener noreferrer"
               >
