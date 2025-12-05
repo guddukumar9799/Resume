@@ -68,7 +68,7 @@ const FormSection = () => {
           <Col xs={12} md={6} className="text-start order-2 order-md-1">
             <h2 style={nameStyle}>GUDDU KUMAR</h2>
             <p>
-              Computer Science student (B. Tech, 2026) with hands-on experience in full-stack development (Java, React.js, Node.js, MongoDB) and cloud platforms (GCP). Strong in DSA, OOP, and software engineering principles. Built REST APIs, responsive UIs, and scalable databases. Seeking Software Engineer role to deliver impactful solutions.
+              Computer Science student (B. Tech, 2026) with hands-on experience in full-stack development (Java, React.js, Node.js, MongoDB) and cloud platforms (GCP). Seeking Software Engineer role to deliver impactful solutions.
             </p>
             <p style={blinkingStyle}>MERN Developer</p>
 
@@ -82,7 +82,7 @@ const FormSection = () => {
                 <FaWhatsapp className="social-icon" style={{ ...iconStyle, color: iconColors.whatsapp }} />
               </a>
               <a
-                href="https://www.https://www.instagram.com/guddukumar9799?igsh=MWpyaGp1NG0zd3p0"
+                href="https://www.instagram.com/guddukumar9799?utm_source=qr&igsh=MWpyaGp1NG0zd3p0"
                 target="_blank"
                 rel="noopener noreferrer"
               >
