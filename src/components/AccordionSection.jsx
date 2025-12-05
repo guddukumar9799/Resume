@@ -121,6 +121,19 @@ const AccordionSection = () => {
           </Accordion.Item>
         </Card>
 
+        {/* Contact Info */}
+        <Card className="mb-3 shadow-sm border border-info">
+          <Accordion.Item eventKey="4">
+            <Accordion.Header><strong>Contact Info</strong></Accordion.Header>
+            <Accordion.Body>
+              <p style={textStyle}>
+                <strong>Phone :</strong> 9955261248 <br />
+                <strong>E-mail :</strong> guddukumar_9799@outlook.com <br />
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+        </Card>
+
       </Accordion>
     </Container>
   );
